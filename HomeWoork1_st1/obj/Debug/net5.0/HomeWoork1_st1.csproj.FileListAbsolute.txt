@@ -1,0 +1,16 @@
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\bin\Debug\net5.0\HomeWoork1_st1.exe
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\bin\Debug\net5.0\HomeWoork1_st1.deps.json
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\bin\Debug\net5.0\HomeWoork1_st1.runtimeconfig.json
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\bin\Debug\net5.0\HomeWoork1_st1.runtimeconfig.dev.json
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\bin\Debug\net5.0\HomeWoork1_st1.dll
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\bin\Debug\net5.0\HomeWoork1_st1.pdb
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.AssemblyInfo.cs
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.dll
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\refint\HomeWoork1_st1.dll
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.pdb
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\HomeWoork1_st1.genruntimeconfig.cache
+C:\Users\пк\source\repos\HomeWoork1_st1\HomeWoork1_st1\obj\Debug\net5.0\ref\HomeWoork1_st1.dll
